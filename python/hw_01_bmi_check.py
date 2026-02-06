@@ -1,5 +1,6 @@
 # DESC : 任務 1：BMI 健康檢測器
 # DESC : 作業內容請查看 https://hackmd.io/jaBX54-LS5mijHTFAQ7BAw
+# DATE : 2026/2/6
 
 name = input("請輸入你的名字:> ")
 height = float(input("請輸入你的身高(cm):> "))
