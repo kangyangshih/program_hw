@@ -17,8 +17,8 @@ def check_guess_num(password):
     if not password.isnumeric():
         return "必須全部都是數字（不能有英文）"
     if len(set(password)) != 4:
-        return 3
-    return 0
+        return "數字不能重複"
+    return ""
 
 
 # 請使用者輸入一個字串
