@@ -1,0 +1,3 @@
+REPORT ZEX_11_HELLO_WORLD.
+
+WRITE: 'hello world'.
